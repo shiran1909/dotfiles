@@ -1,0 +1,12 @@
+/*vim:filetype=css*/
+
+configuration {
+    display-drun:       "Aplications";
+    display-run:        "Execute";
+    display-window:     "Desktop";
+    window-format:      "{w}::{n}";
+    sidebar-mode:       true;
+    modi:               "drun,run,window";
+    terminal:           "konsole";
+}
+

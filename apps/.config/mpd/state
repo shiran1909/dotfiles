@@ -1,0 +1,202 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:mpd http stream
+audio_device_state:1:toggle_visualizer
+state: pause
+current: 0
+time: 10.290000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:[n312]成都-赵雷《成都》.mp3
+1:[t0Ac]稻香-周杰伦·《魔杰座》.mp3
+2:[taad]简单爱-周杰伦·《范特西》.mp3
+3:[tAKf]爱在西元前-周杰伦·《范特西》.mp3
+4:[td9a]半岛铁盒-周杰伦·《八度空间》.mp3
+5:[tDxy]龙卷风-周杰伦·《Jay》.mp3
+6:[tFEJ]爷爷泡的茶-周杰伦·《八度空间》.mp3
+7:[tFSF]回到过去-周杰伦·《八度空间》.mp3
+8:[tgUt]K歌之王-陈奕迅·《反正是我》.mp3
+9:[tiVt]半兽人-周杰伦·《八度空间》.mp3
+10:[tp4Q]米兰的小铁匠-周杰伦·《八度空间》.mp3
+11:[tRxK]开不了口-周杰伦·《范特西》 (1).mp3
+12:[tv56]安静-周杰伦·《范特西》.mp3
+13:[tYhV]晴天-周杰伦·《叶惠美》.mp3
+14:[tzwp]最后的战役-周杰伦·《八度空间》.mp3
+15:Let It Go - Joshua Hyslop.mp3
+16:Victory - Two Steps From Hell.mp3
+17:太委屈 - 陶晶莹.mp3
+18:爱很简单 - 陶喆.mp3
+19:闫东炜 - 夏野与暗恋.mp3
+20:漆柚 - 【薛晓 晓薛】归途 - 《锁麟囊》延伸曲.mp3
+21:那英 - 春暖花开.mp3
+22:后弦 - 单车恋人.mp3
+23:Wake Me Up When September Ends - Green Day.mp3
+24:Anthem Lights - Best of 2012： Payphone Call Me Maybe Wide Awake Starship We Are Young.mp3
+25:Diana Boncheva - Purple Passion.mp3
+26:Groove Coverage - She.mp3
+27:Two Steps From Hell - El Dorado Dubstep (Remix) - remix.mp3
+28:Tone Damli Aaberge - Stupid.mp3
+29:邓福如 - Nothing on you.mp3
+30:王诗安 - Home.mp3
+31:Sam Tsui Alex G - Don't Wanna Know We Don't Talk Anymore.mp3
+32:Cassandra - Doobi Doobi Doo (Don't Be Shy).mp3
+33:Delacey - Dream It Possible.mp3
+34:周传雄 - 有没有一首歌会让你想起我.mp3
+35:Charlie Puth - Look At Me Now.mp3
+36:Palladio - Escala.mp3
+37:AVALON - Just A Moment(Original Mix).mp3
+38:Joan Jett & the Blackhearts - I Hate Myself For Loving You.mp3
+39:OMFG - Hello.mp3
+40:The Beatles - Hey Jude.mp3
+41:Nightwish - I Want My Tears Back.mp3
+42:Five Hundred Miles - Justin Timberlake.mp3
+43:Matt B - Color Blind.mp3
+44:Raphaël Beau - Larrons En Foire.mp3
+45:Vicetone Cozi Zuehlsdorff - Nevada.mp3
+46:Matteo - Panama.mp3
+47:黑崎子 - Panama（C哩C哩）（Cover Matteo）.mp3
+48:Joel Adams - Please Don't Go.mp3
+49:Lovestoned - Bye Bye Bye.mp3
+50:Adele - Rolling In The Deep.mp3
+51:DEAMN - Sign.mp3
+52:Joanie Madden - Down By the Salley Gardens.mp3
+53:[tlGv]你的背包-陈奕迅·《Special Thanks To…》.mp3
+54:K-391 - Summertime.mp3
+55:BAAD - 君が好きだと叫びたい.mp3
+56:Joel Hanson - Traveling Light.mp3
+57:Acreix - Visions.mp3
+58:Unlike Pluto why mona - Wannabe (Spice Girls Cover).mp3
+59:Андрей Губин - Солнышко.mp3
+60:鸟爷ToriSama 洛天依 - 一半一半.mp3
+61:赵传 - 一颗滚石.mp3
+62:网易云音乐 - 一首听了就不挂科的歌 (鬼畜版).mp3
+63:赵英俊 - 大王叫我来巡山(赵英俊版).mp3
+64:刘莱斯 - 万千.mp3
+65:汪苏泷 By2 - 有点甜.mp3
+66:汪明荃 - 万水千山总是情.mp3
+67:三无MarBlue - 达拉崩吧（Cover 洛天依&言和）.mp3
+68:不靠谱组合 - 时钟.mp3
+69:逃跑计划 - 夜空中最亮的星.mp3
+70:赵传 - 我是一只小小鸟.mp3
+71:谢津 - 说唱脸谱.mp3
+72:冯晓泉 - 冰糖葫芦.mp3
+73:云飞 - 圪粱粱.mp3
+74:周迅 - 飘摇.mp3
+75:赵照 - 你就是我最想要的丫头.mp3
+76:解晓东 - 中国娃.mp3
+77:[t9KO]听妈妈的话-周杰伦·《依然范特西》.mp3
+78:[tHpb]本草纲目-周杰伦·《依然范特西》.mp3
+79:丽江小倩 - 一瞬间.mp3
+80:汪峰 - 像梦一样自由.mp3
+81:Dj Carpi - the power of pleasure.mp3
+82:Dj Carpi - The Power Of Pleasure (Extended Ver.).mp3
+83:三无MarBlue - 普通DISCO.mp3
+84:Lindsey Stirling - Senbonzakura.mp3
+85:刘建东 - 梦中的兰花花.mp3
+86:雷诺儿 - 别在我离开之前离开.mp3
+87:Mi2 - 勇敢爱.mp3
+88:[t0xi]黑色毛衣-周杰伦·《十一月的萧邦》.mp3
+89:[tFv1]一路向北-周杰伦·《十一月的萧邦》.mp3
+90:[ti55]发如雪-周杰伦·《十一月的萧邦》.mp3
+91:[tpFU]逆鳞-周杰伦·《十一月的萧邦》.mp3
+92:[tQo8]夜曲-周杰伦·《十一月的萧邦》.mp3
+93:马頔 - 南山南.mp3
+94:孙楠 - 风往北吹.mp3
+95:黄渤 - 去大理.mp3
+96:群星 - 寂静之声.mp3
+97:音阙诗听 常雨莹 - 启航.mp3
+98:[tZU6]算什么男人-周杰伦·《哎呦，不错哦》.mp3
+99:阿肆 - 喜欢.mp3
+100:韩宝仪 - 往事只能回味.mp3
+101:阿杜 - 坚持到底.mp3
+102:男才女貌 - 外滩十八号.mp3
+103:阿杜 - 撕夜.mp3
+104:张真 - 我被青春撞了一下腰.mp3
+105:张真 - 红红好姑娘.mp3
+106:哎哟蔚蔚 - 如风过境.mp3
+107:乐正绫 洛天依 言和 心华 星尘 初音未来 溱绫西陌 - 寄明月（VC女团6人）（Cover 乐正绫）.mp3
+108:许亚童 - 想要你知道.mp3
+109:李荣浩 - 老街.mp3
+110:容祖儿 周晓鸥 蔡卓妍 周笔畅 孙楠 古巨基 韩红 陶喆 - 崛起.mp3
+111:Jam - 差三岁.mp3
+112:布衣乐队 - 罗马表（Cover 街头流传）.mp3
+113:刘德华 - 练习(Live).mp3
+114:张明敏 - 乡间的小路.mp3
+115:李蚊香 雨洛Huge 佑可猫 根小八 黄麒Eros - 当醉少年游【魔道祖师之少年求学组篇】.mp3
+116:程璧 符瑞 - 心想唱歌就唱歌.mp3
+117:叶启田 - 爱拼才会赢(闽).mp3
+118:Eagles - Hotel California (Live).mp3
+119:李玖哲 - 围墙.mp3
+120:赵雷 - 成都.mp3
+121:青蛙 - 小跳蛙.mp3
+122:朴树 - 那些花儿.mp3
+123:[toAN]蒲公英的约定-周杰伦·《我很忙》.mp3
+124:老狼 任素汐 - 我要你.mp3
+125:刘惜君 - 那时候的我.mp3
+126:宋冬野 - 董小姐.mp3
+127:黄安 - 样样红.mp3
+128:黄安 - 新鸳鸯蝴蝶梦.mp3
+129:阿鲁阿卓 - 映山红.mp3
+130:筠子 - 青春.mp3
+131:关牧村 - 月光下的凤尾竹.mp3
+132:蒋志光 罗大佑 - 皇后大道东.mp3
+133:李荣浩 - 李白.mp3
+134:胡伟立 - 市集.mp3
+135:洛天依 言和 - 绿茶.mp3
+136:群星 - 青衣.mp3
+137:萧全 - 海草舞.mp3
+138:许一鸣 - 想你想疯了.mp3
+139:洛天依 言和 - 神经病之歌.mp3
+140:群星 - 弹棉花.mp3
+141:李荣浩 - 出卖.mp3
+142:简弘亦 - 问.mp3
+143:群星 - aHUOz.mp3
+144:付笛声 - 众人划桨开大船.mp3
+145:刘德华 - 世界第一等(Live) - live.mp3
+146:林翠萍 - 何必在乎你是谁.mp3
+147:林翠萍 - 爱做梦的人.mp3
+148:孙俪 - 爱如空气.mp3
+149:刘惜君 - 我很快乐.mp3
+150:朴树 - 平凡之路.mp3
+151:许巍 - 故乡.mp3
+152:李宗盛 - 我终于失去了你.mp3
+153:李宗盛 - 漂洋过海来看你.mp3
+154:宿羽阳 - 赴约.mp3
+155:杨坤 佟大为 郑元畅 张杰 朱亚文 陈学冬 - 真心英雄.mp3
+156:成龙 金喜善 - 美丽的神话Ⅰ.mp3
+157:叶启田 - 浪子的心情.mp3
+158:许巍 - 第三极.mp3
+159:[tQYB]等你下课(with 杨瑞代)-周杰伦·《等你下课》.mp3
+160:薛之谦 - 演员.mp3
+161:丁小芹 - 思念.mp3
+162:蔡健雅 - 红色高跟鞋.mp3
+163:[tmDG]蜗牛-周杰伦·《范特西PLUS》.mp3
+164:周传雄 - 蓝色土耳其.mp3
+165:[tfnS]好久不见-陈奕迅·《认了吧》.mp3
+166:[tY9i]红玫瑰-陈奕迅·《认了吧》.mp3
+167:唐汉霄 - 让我留在你身边 (原唱作版).mp3
+168:毛宁 - 涛声依旧.mp3
+169:孟庭苇 - 羞答答的玫瑰静悄悄地开.mp3
+170:走路去纽约 - 陶晶莹.mp3
+171:杨宗纬 - 越过山丘.mp3
+172:杨钰莹 毛宁 - 心雨.mp3
+173:GALA - 追梦赤子心.mp3
+174:都是夜归人 - 许美静.mp3
+175:阳光总在风雨后 - 许美静.mp3
+176:韦唯 - 辘轳、井、女人.mp3
+177:金玟岐 - 岁月神偷.mp3
+178:郑钧 - 私奔.mp3
+179:是阿涵阿 - 过客.mp3
+180:梁咏琪 - 中意他.mp3
+181:コナミ矩形波倶楽部 - 魂斗罗(FC)密林の戦い~戦栗の鼓动~凯旋1.mp3
+182:赵牧阳 - 黄河谣.mp3
+183:迪克牛仔 - 三万英尺.mp3
+184:那英 - 默.mp3
+185:黄龄 - 风月.mp3
+playlist_end
