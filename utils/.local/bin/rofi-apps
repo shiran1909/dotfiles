@@ -1,0 +1,12 @@
+#!/bin/bash
+
+rofi -sidebar-mode \
+     -lines 12 \
+     -padding 20 \
+     -width 60 \
+     -location 0 \
+     -show drun \
+     -columns 3 \
+     -theme center \
+     -hide-scrollbar true \
+     -font "WenQuanYi Micro Hei 10"
