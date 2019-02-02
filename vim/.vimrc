@@ -10,8 +10,23 @@ filetype plugin indent on
 
 " Colorscheme
 set background=dark
+let g:nord_italics=1
+let g:nord_italics_comments=1
+let g:nord_comment_brightness=15
+let g:nord_uniform_status_lines=1
+let g:nord_cursor_line_number_background=1
 colorscheme nord
-let g:one_allow_italics=1
+
+"自动识别BOM字符文件
+set fileencodings=ucs-bom,utf-8,gbk
+"正确处理中文字符的折行和拼接
+set formatoptions+=mM
+
+
+" True color
+if (has("termguicolors"))
+    set termguicolors
+endif
 
 " Enable italicised comments in vim
 highlight Comment cterm=italic
@@ -68,6 +83,9 @@ augroup numbertoggle
     autocmd BufLeave,FocusLost,InsertEnter * set norelativenumber
 augroup END
 
+" highlight current line
+set cursorline
+set cursorcolumn
 highlight LineNr ctermfg=green
 " highlight CursorLineNr ctermbg=black ctermfg=white cterm=bold
 
