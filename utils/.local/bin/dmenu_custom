@@ -1,0 +1,13 @@
+dmenu_run -q \
+            -p " Run " \
+            -h 30 \
+            -x 150 \
+            -y 40 \
+            -w 600 \
+            -name "search" \
+            -o 0,75 \
+            -fn "Noto Sans-10:regular" \
+            -nb "#2f343f" \
+            -nf "#d8dee8" \
+            -sb "#bf616a" \
+            -sf "#d8dee8"
