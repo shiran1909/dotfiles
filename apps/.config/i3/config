@@ -10,7 +10,7 @@
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
 set $mod Mod4
-set $term --no-startup-id konsole
+set $term --no-startup-id st
 set $PICTURES $HOME/Pictures
 
 # focus_follows_mouse no
@@ -255,9 +255,13 @@ exec --no-startup-id compton -b -f
 exec --no-startup-id hsetroot -solid "#263238"
 exec --no-startup-id feh --randomize --bg-scale $PICTURES/*
 # albert
-exec --no-startup-id albert
+# exec --no-startup-id albert
 # latte-dock
 exec --no-startup-id latte-dock %u
+
+# conky
+exec_always $HOME/.config/i3/init.sh
+
 
 
 # Media Player Control

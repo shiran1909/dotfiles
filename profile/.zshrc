@@ -95,7 +95,12 @@ plugins=(
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-alias ls="ls -F --show-control-chars --color=auto"
+# alias ls="ls -F --show-control-chars --color=auto"
+alias ls="lsd --color=auto"
+alias l="ls -l"
+alias la="ls -a"
+alias ll="ls -al"
+alias lt="ls --tree"
 
 ZSH_CACHE_DIR=$HOME/.cache/oh-my-zsh
 if [[ ! -d $ZSH_CACHE_DIR ]]; then

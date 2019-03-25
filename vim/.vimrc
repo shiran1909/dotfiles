@@ -15,7 +15,7 @@ let g:nord_italics_comments=1
 let g:nord_comment_brightness=15
 let g:nord_uniform_status_lines=1
 let g:nord_cursor_line_number_background=1
-colorscheme nord
+colorscheme one
 
 "自动识别BOM字符文件
 set fileencodings=ucs-bom,utf-8,gbk

@@ -3104,3 +3104,639 @@ Jan 15 19:41 : exception: OutputThread could not get realtime scheduling, contin
 Jan 15 19:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
 Jan 15 19:45 : client: [0] opened from 127.0.0.1:55468
 Jan 15 19:45 : client: [0] closed
+Mar 09 08:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[n312]成都-赵雷《成都》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[n312]成都-赵雷《成都》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[n312]成都-赵雷《成都》.mp3"
+Mar 09 08:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 08:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 09 08:14 : client: [0] opened from 127.0.0.1:41578
+Mar 09 08:14 : client: [0] closed
+Mar 09 08:14 : client: [1] opened from 127.0.0.1:41584
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[n312]成都-赵雷《成都》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[n312]成都-赵雷《成都》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[n312]成都-赵雷《成都》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[n312]成都-赵雷《成都》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[n312]成都-赵雷《成都》.mp3': No such file or directory
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[t0Ac]稻香-周杰伦·《魔杰座》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[t0Ac]稻香-周杰伦·《魔杰座》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[t0Ac]稻香-周杰伦·《魔杰座》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[taad]简单爱-周杰伦·《范特西》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[taad]简单爱-周杰伦·《范特西》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[taad]简单爱-周杰伦·《范特西》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tAKf]爱在西元前-周杰伦·《范特西》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tAKf]爱在西元前-周杰伦·《范特西》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tAKf]爱在西元前-周杰伦·《范特西》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[td9a]半岛铁盒-周杰伦·《八度空间》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[td9a]半岛铁盒-周杰伦·《八度空间》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[td9a]半岛铁盒-周杰伦·《八度空间》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tDxy]龙卷风-周杰伦·《Jay》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tDxy]龙卷风-周杰伦·《Jay》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tDxy]龙卷风-周杰伦·《Jay》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tFEJ]爷爷泡的茶-周杰伦·《八度空间》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tFEJ]爷爷泡的茶-周杰伦·《八度空间》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tFEJ]爷爷泡的茶-周杰伦·《八度空间》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tFSF]回到过去-周杰伦·《八度空间》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tFSF]回到过去-周杰伦·《八度空间》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tFSF]回到过去-周杰伦·《八度空间》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tgUt]K歌之王-陈奕迅·《反正是我》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tgUt]K歌之王-陈奕迅·《反正是我》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tgUt]K歌之王-陈奕迅·《反正是我》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tiVt]半兽人-周杰伦·《八度空间》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tiVt]半兽人-周杰伦·《八度空间》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tiVt]半兽人-周杰伦·《八度空间》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tp4Q]米兰的小铁匠-周杰伦·《八度空间》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tp4Q]米兰的小铁匠-周杰伦·《八度空间》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tp4Q]米兰的小铁匠-周杰伦·《八度空间》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tRxK]开不了口-周杰伦·《范特西》 (1).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tRxK]开不了口-周杰伦·《范特西》 (1).mp3': No such file or directory
+Mar 09 08:14 : player: played "[tRxK]开不了口-周杰伦·《范特西》 (1).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tv56]安静-周杰伦·《范特西》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tv56]安静-周杰伦·《范特西》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tv56]安静-周杰伦·《范特西》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tYhV]晴天-周杰伦·《叶惠美》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tYhV]晴天-周杰伦·《叶惠美》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tYhV]晴天-周杰伦·《叶惠美》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tzwp]最后的战役-周杰伦·《八度空间》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tzwp]最后的战役-周杰伦·《八度空间》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Let It Go - Joshua Hyslop.mp3
+Mar 09 08:14 : client: [1] closed
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Let It Go - Joshua Hyslop.mp3': No such file or directory
+Mar 09 08:14 : player: played "Let It Go - Joshua Hyslop.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Victory - Two Steps From Hell.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Victory - Two Steps From Hell.mp3': No such file or directory
+Mar 09 08:14 : player: played "Victory - Two Steps From Hell.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/太委屈 - 陶晶莹.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/太委屈 - 陶晶莹.mp3': No such file or directory
+Mar 09 08:14 : player: played "太委屈 - 陶晶莹.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/爱很简单 - 陶喆.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/爱很简单 - 陶喆.mp3': No such file or directory
+Mar 09 08:14 : player: played "爱很简单 - 陶喆.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/闫东炜 - 夏野与暗恋.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/闫东炜 - 夏野与暗恋.mp3': No such file or directory
+Mar 09 08:14 : player: played "闫东炜 - 夏野与暗恋.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/漆柚 - 【薛晓 晓薛】归途 - 《锁麟囊》延伸曲.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/漆柚 - 【薛晓 晓薛】归途 - 《锁麟囊》延伸曲.mp3': No such file or directory
+Mar 09 08:14 : player: played "漆柚 - 【薛晓 晓薛】归途 - 《锁麟囊》延伸曲.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/那英 - 春暖花开.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/那英 - 春暖花开.mp3': No such file or directory
+Mar 09 08:14 : player: played "那英 - 春暖花开.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/后弦 - 单车恋人.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/后弦 - 单车恋人.mp3': No such file or directory
+Mar 09 08:14 : player: played "后弦 - 单车恋人.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Wake Me Up When September Ends - Green Day.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Wake Me Up When September Ends - Green Day.mp3': No such file or directory
+Mar 09 08:14 : player: played "Wake Me Up When September Ends - Green Day.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Anthem Lights - Best of 2012： Payphone Call Me Maybe Wide Awake Starship We Are Young.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Anthem Lights - Best of 2012： Payphone Call Me Maybe Wide Awake Starship We Are Young.mp3': No such file or directory
+Mar 09 08:14 : player: played "Anthem Lights - Best of 2012： Payphone Call Me Maybe Wide Awake Starship We Are Young.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Diana Boncheva - Purple Passion.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Diana Boncheva - Purple Passion.mp3': No such file or directory
+Mar 09 08:14 : player: played "Diana Boncheva - Purple Passion.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Groove Coverage - She.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Groove Coverage - She.mp3': No such file or directory
+Mar 09 08:14 : player: played "Groove Coverage - She.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Two Steps From Hell - El Dorado Dubstep (Remix) - remix.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Two Steps From Hell - El Dorado Dubstep (Remix) - remix.mp3': No such file or directory
+Mar 09 08:14 : player: played "Two Steps From Hell - El Dorado Dubstep (Remix) - remix.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Tone Damli Aaberge - Stupid.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Tone Damli Aaberge - Stupid.mp3': No such file or directory
+Mar 09 08:14 : player: played "Tone Damli Aaberge - Stupid.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/邓福如 - Nothing on you.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/邓福如 - Nothing on you.mp3': No such file or directory
+Mar 09 08:14 : player: played "邓福如 - Nothing on you.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/王诗安 - Home.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/王诗安 - Home.mp3': No such file or directory
+Mar 09 08:14 : player: played "王诗安 - Home.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Sam Tsui Alex G - Don't Wanna Know We Don't Talk Anymore.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Sam Tsui Alex G - Don't Wanna Know We Don't Talk Anymore.mp3': No such file or directory
+Mar 09 08:14 : player: played "Sam Tsui Alex G - Don't Wanna Know We Don't Talk Anymore.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Cassandra - Doobi Doobi Doo (Don't Be Shy).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Cassandra - Doobi Doobi Doo (Don't Be Shy).mp3': No such file or directory
+Mar 09 08:14 : player: played "Cassandra - Doobi Doobi Doo (Don't Be Shy).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Delacey - Dream It Possible.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Delacey - Dream It Possible.mp3': No such file or directory
+Mar 09 08:14 : player: played "Delacey - Dream It Possible.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/周传雄 - 有没有一首歌会让你想起我.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/周传雄 - 有没有一首歌会让你想起我.mp3': No such file or directory
+Mar 09 08:14 : player: played "周传雄 - 有没有一首歌会让你想起我.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Charlie Puth - Look At Me Now.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Charlie Puth - Look At Me Now.mp3': No such file or directory
+Mar 09 08:14 : player: played "Charlie Puth - Look At Me Now.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Palladio - Escala.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Palladio - Escala.mp3': No such file or directory
+Mar 09 08:14 : player: played "Palladio - Escala.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/AVALON - Just A Moment(Original Mix).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/AVALON - Just A Moment(Original Mix).mp3': No such file or directory
+Mar 09 08:14 : player: played "AVALON - Just A Moment(Original Mix).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Joan Jett & the Blackhearts - I Hate Myself For Loving You.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Joan Jett & the Blackhearts - I Hate Myself For Loving You.mp3': No such file or directory
+Mar 09 08:14 : player: played "Joan Jett & the Blackhearts - I Hate Myself For Loving You.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/OMFG - Hello.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/OMFG - Hello.mp3': No such file or directory
+Mar 09 08:14 : player: played "OMFG - Hello.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/The Beatles - Hey Jude.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/The Beatles - Hey Jude.mp3': No such file or directory
+Mar 09 08:14 : player: played "The Beatles - Hey Jude.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Nightwish - I Want My Tears Back.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Nightwish - I Want My Tears Back.mp3': No such file or directory
+Mar 09 08:14 : player: played "Nightwish - I Want My Tears Back.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Five Hundred Miles - Justin Timberlake.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Five Hundred Miles - Justin Timberlake.mp3': No such file or directory
+Mar 09 08:14 : player: played "Five Hundred Miles - Justin Timberlake.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Matt B - Color Blind.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Matt B - Color Blind.mp3': No such file or directory
+Mar 09 08:14 : player: played "Matt B - Color Blind.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Raphaël Beau - Larrons En Foire.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Raphaël Beau - Larrons En Foire.mp3': No such file or directory
+Mar 09 08:14 : player: played "Raphaël Beau - Larrons En Foire.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Vicetone Cozi Zuehlsdorff - Nevada.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Vicetone Cozi Zuehlsdorff - Nevada.mp3': No such file or directory
+Mar 09 08:14 : player: played "Vicetone Cozi Zuehlsdorff - Nevada.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Matteo - Panama.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Matteo - Panama.mp3': No such file or directory
+Mar 09 08:14 : player: played "Matteo - Panama.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/黑崎子 - Panama（C哩C哩）（Cover Matteo）.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/黑崎子 - Panama（C哩C哩）（Cover Matteo）.mp3': No such file or directory
+Mar 09 08:14 : player: played "黑崎子 - Panama（C哩C哩）（Cover Matteo）.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Joel Adams - Please Don't Go.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Joel Adams - Please Don't Go.mp3': No such file or directory
+Mar 09 08:14 : player: played "Joel Adams - Please Don't Go.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Lovestoned - Bye Bye Bye.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Lovestoned - Bye Bye Bye.mp3': No such file or directory
+Mar 09 08:14 : player: played "Lovestoned - Bye Bye Bye.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Adele - Rolling In The Deep.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Adele - Rolling In The Deep.mp3': No such file or directory
+Mar 09 08:14 : player: played "Adele - Rolling In The Deep.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/DEAMN - Sign.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/DEAMN - Sign.mp3': No such file or directory
+Mar 09 08:14 : player: played "DEAMN - Sign.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Joanie Madden - Down By the Salley Gardens.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Joanie Madden - Down By the Salley Gardens.mp3': No such file or directory
+Mar 09 08:14 : player: played "Joanie Madden - Down By the Salley Gardens.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tlGv]你的背包-陈奕迅·《Special Thanks To…》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tlGv]你的背包-陈奕迅·《Special Thanks To…》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tlGv]你的背包-陈奕迅·《Special Thanks To…》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/K-391 - Summertime.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/K-391 - Summertime.mp3': No such file or directory
+Mar 09 08:14 : player: played "K-391 - Summertime.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/BAAD - 君が好きだと叫びたい.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/BAAD - 君が好きだと叫びたい.mp3': No such file or directory
+Mar 09 08:14 : player: played "BAAD - 君が好きだと叫びたい.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Joel Hanson - Traveling Light.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Joel Hanson - Traveling Light.mp3': No such file or directory
+Mar 09 08:14 : player: played "Joel Hanson - Traveling Light.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Acreix - Visions.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Acreix - Visions.mp3': No such file or directory
+Mar 09 08:14 : player: played "Acreix - Visions.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Unlike Pluto why mona - Wannabe (Spice Girls Cover).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Unlike Pluto why mona - Wannabe (Spice Girls Cover).mp3': No such file or directory
+Mar 09 08:14 : player: played "Unlike Pluto why mona - Wannabe (Spice Girls Cover).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Андрей Губин - Солнышко.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Андрей Губин - Солнышко.mp3': No such file or directory
+Mar 09 08:14 : player: played "Андрей Губин - Солнышко.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/鸟爷ToriSama 洛天依 - 一半一半.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/鸟爷ToriSama 洛天依 - 一半一半.mp3': No such file or directory
+Mar 09 08:14 : player: played "鸟爷ToriSama 洛天依 - 一半一半.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/赵传 - 一颗滚石.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/赵传 - 一颗滚石.mp3': No such file or directory
+Mar 09 08:14 : player: played "赵传 - 一颗滚石.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/网易云音乐 - 一首听了就不挂科的歌 (鬼畜版).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/网易云音乐 - 一首听了就不挂科的歌 (鬼畜版).mp3': No such file or directory
+Mar 09 08:14 : player: played "网易云音乐 - 一首听了就不挂科的歌 (鬼畜版).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/赵英俊 - 大王叫我来巡山(赵英俊版).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/赵英俊 - 大王叫我来巡山(赵英俊版).mp3': No such file or directory
+Mar 09 08:14 : player: played "赵英俊 - 大王叫我来巡山(赵英俊版).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/刘莱斯 - 万千.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/刘莱斯 - 万千.mp3': No such file or directory
+Mar 09 08:14 : player: played "刘莱斯 - 万千.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/汪苏泷 By2 - 有点甜.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/汪苏泷 By2 - 有点甜.mp3': No such file or directory
+Mar 09 08:14 : player: played "汪苏泷 By2 - 有点甜.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/汪明荃 - 万水千山总是情.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/汪明荃 - 万水千山总是情.mp3': No such file or directory
+Mar 09 08:14 : player: played "汪明荃 - 万水千山总是情.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/三无MarBlue - 达拉崩吧（Cover 洛天依&言和）.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/三无MarBlue - 达拉崩吧（Cover 洛天依&言和）.mp3': No such file or directory
+Mar 09 08:14 : player: played "三无MarBlue - 达拉崩吧（Cover 洛天依&言和）.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/不靠谱组合 - 时钟.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/不靠谱组合 - 时钟.mp3': No such file or directory
+Mar 09 08:14 : player: played "不靠谱组合 - 时钟.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/逃跑计划 - 夜空中最亮的星.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/逃跑计划 - 夜空中最亮的星.mp3': No such file or directory
+Mar 09 08:14 : player: played "逃跑计划 - 夜空中最亮的星.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/赵传 - 我是一只小小鸟.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/赵传 - 我是一只小小鸟.mp3': No such file or directory
+Mar 09 08:14 : player: played "赵传 - 我是一只小小鸟.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/谢津 - 说唱脸谱.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/谢津 - 说唱脸谱.mp3': No such file or directory
+Mar 09 08:14 : player: played "谢津 - 说唱脸谱.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/冯晓泉 - 冰糖葫芦.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/冯晓泉 - 冰糖葫芦.mp3': No such file or directory
+Mar 09 08:14 : player: played "冯晓泉 - 冰糖葫芦.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/云飞 - 圪粱粱.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/云飞 - 圪粱粱.mp3': No such file or directory
+Mar 09 08:14 : player: played "云飞 - 圪粱粱.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/周迅 - 飘摇.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/周迅 - 飘摇.mp3': No such file or directory
+Mar 09 08:14 : player: played "周迅 - 飘摇.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/赵照 - 你就是我最想要的丫头.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/赵照 - 你就是我最想要的丫头.mp3': No such file or directory
+Mar 09 08:14 : player: played "赵照 - 你就是我最想要的丫头.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/解晓东 - 中国娃.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/解晓东 - 中国娃.mp3': No such file or directory
+Mar 09 08:14 : player: played "解晓东 - 中国娃.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[t9KO]听妈妈的话-周杰伦·《依然范特西》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[t9KO]听妈妈的话-周杰伦·《依然范特西》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[t9KO]听妈妈的话-周杰伦·《依然范特西》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tHpb]本草纲目-周杰伦·《依然范特西》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tHpb]本草纲目-周杰伦·《依然范特西》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tHpb]本草纲目-周杰伦·《依然范特西》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/丽江小倩 - 一瞬间.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/丽江小倩 - 一瞬间.mp3': No such file or directory
+Mar 09 08:14 : player: played "丽江小倩 - 一瞬间.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/汪峰 - 像梦一样自由.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/汪峰 - 像梦一样自由.mp3': No such file or directory
+Mar 09 08:14 : player: played "汪峰 - 像梦一样自由.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Dj Carpi - the power of pleasure.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Dj Carpi - the power of pleasure.mp3': No such file or directory
+Mar 09 08:14 : player: played "Dj Carpi - the power of pleasure.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Dj Carpi - The Power Of Pleasure (Extended Ver.).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Dj Carpi - The Power Of Pleasure (Extended Ver.).mp3': No such file or directory
+Mar 09 08:14 : player: played "Dj Carpi - The Power Of Pleasure (Extended Ver.).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/三无MarBlue - 普通DISCO.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/三无MarBlue - 普通DISCO.mp3': No such file or directory
+Mar 09 08:14 : player: played "三无MarBlue - 普通DISCO.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Lindsey Stirling - Senbonzakura.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Lindsey Stirling - Senbonzakura.mp3': No such file or directory
+Mar 09 08:14 : player: played "Lindsey Stirling - Senbonzakura.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/刘建东 - 梦中的兰花花.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/刘建东 - 梦中的兰花花.mp3': No such file or directory
+Mar 09 08:14 : player: played "刘建东 - 梦中的兰花花.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/雷诺儿 - 别在我离开之前离开.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/雷诺儿 - 别在我离开之前离开.mp3': No such file or directory
+Mar 09 08:14 : player: played "雷诺儿 - 别在我离开之前离开.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Mi2 - 勇敢爱.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Mi2 - 勇敢爱.mp3': No such file or directory
+Mar 09 08:14 : player: played "Mi2 - 勇敢爱.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[t0xi]黑色毛衣-周杰伦·《十一月的萧邦》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[t0xi]黑色毛衣-周杰伦·《十一月的萧邦》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[t0xi]黑色毛衣-周杰伦·《十一月的萧邦》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tFv1]一路向北-周杰伦·《十一月的萧邦》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tFv1]一路向北-周杰伦·《十一月的萧邦》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tFv1]一路向北-周杰伦·《十一月的萧邦》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[ti55]发如雪-周杰伦·《十一月的萧邦》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[ti55]发如雪-周杰伦·《十一月的萧邦》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[ti55]发如雪-周杰伦·《十一月的萧邦》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tpFU]逆鳞-周杰伦·《十一月的萧邦》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tpFU]逆鳞-周杰伦·《十一月的萧邦》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tpFU]逆鳞-周杰伦·《十一月的萧邦》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tQo8]夜曲-周杰伦·《十一月的萧邦》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tQo8]夜曲-周杰伦·《十一月的萧邦》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tQo8]夜曲-周杰伦·《十一月的萧邦》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/马頔 - 南山南.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/马頔 - 南山南.mp3': No such file or directory
+Mar 09 08:14 : player: played "马頔 - 南山南.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/孙楠 - 风往北吹.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/孙楠 - 风往北吹.mp3': No such file or directory
+Mar 09 08:14 : player: played "孙楠 - 风往北吹.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/黄渤 - 去大理.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/黄渤 - 去大理.mp3': No such file or directory
+Mar 09 08:14 : player: played "黄渤 - 去大理.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/群星 - 寂静之声.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/群星 - 寂静之声.mp3': No such file or directory
+Mar 09 08:14 : player: played "群星 - 寂静之声.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/音阙诗听 常雨莹 - 启航.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/音阙诗听 常雨莹 - 启航.mp3': No such file or directory
+Mar 09 08:14 : player: played "音阙诗听 常雨莹 - 启航.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tZU6]算什么男人-周杰伦·《哎呦，不错哦》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tZU6]算什么男人-周杰伦·《哎呦，不错哦》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tZU6]算什么男人-周杰伦·《哎呦，不错哦》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/阿肆 - 喜欢.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/阿肆 - 喜欢.mp3': No such file or directory
+Mar 09 08:14 : player: played "阿肆 - 喜欢.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/韩宝仪 - 往事只能回味.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/韩宝仪 - 往事只能回味.mp3': No such file or directory
+Mar 09 08:14 : player: played "韩宝仪 - 往事只能回味.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/阿杜 - 坚持到底.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/阿杜 - 坚持到底.mp3': No such file or directory
+Mar 09 08:14 : player: played "阿杜 - 坚持到底.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/男才女貌 - 外滩十八号.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/男才女貌 - 外滩十八号.mp3': No such file or directory
+Mar 09 08:14 : player: played "男才女貌 - 外滩十八号.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/阿杜 - 撕夜.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/阿杜 - 撕夜.mp3': No such file or directory
+Mar 09 08:14 : player: played "阿杜 - 撕夜.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/张真 - 我被青春撞了一下腰.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/张真 - 我被青春撞了一下腰.mp3': No such file or directory
+Mar 09 08:14 : player: played "张真 - 我被青春撞了一下腰.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/张真 - 红红好姑娘.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/张真 - 红红好姑娘.mp3': No such file or directory
+Mar 09 08:14 : player: played "张真 - 红红好姑娘.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/哎哟蔚蔚 - 如风过境.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/哎哟蔚蔚 - 如风过境.mp3': No such file or directory
+Mar 09 08:14 : player: played "哎哟蔚蔚 - 如风过境.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/乐正绫 洛天依 言和 心华 星尘 初音未来 溱绫西陌 - 寄明月（VC女团6人）（Cover 乐正绫）.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/乐正绫 洛天依 言和 心华 星尘 初音未来 溱绫西陌 - 寄明月（VC女团6人）（Cover 乐正绫）.mp3': No such file or directory
+Mar 09 08:14 : player: played "乐正绫 洛天依 言和 心华 星尘 初音未来 溱绫西陌 - 寄明月（VC女团6人）（Cover 乐正绫）.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/许亚童 - 想要你知道.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/许亚童 - 想要你知道.mp3': No such file or directory
+Mar 09 08:14 : player: played "许亚童 - 想要你知道.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/李荣浩 - 老街.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/李荣浩 - 老街.mp3': No such file or directory
+Mar 09 08:14 : player: played "李荣浩 - 老街.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/容祖儿 周晓鸥 蔡卓妍 周笔畅 孙楠 古巨基 韩红 陶喆 - 崛起.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/容祖儿 周晓鸥 蔡卓妍 周笔畅 孙楠 古巨基 韩红 陶喆 - 崛起.mp3': No such file or directory
+Mar 09 08:14 : player: played "容祖儿 周晓鸥 蔡卓妍 周笔畅 孙楠 古巨基 韩红 陶喆 - 崛起.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Jam - 差三岁.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Jam - 差三岁.mp3': No such file or directory
+Mar 09 08:14 : player: played "Jam - 差三岁.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/布衣乐队 - 罗马表（Cover 街头流传）.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/布衣乐队 - 罗马表（Cover 街头流传）.mp3': No such file or directory
+Mar 09 08:14 : player: played "布衣乐队 - 罗马表（Cover 街头流传）.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/刘德华 - 练习(Live).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/刘德华 - 练习(Live).mp3': No such file or directory
+Mar 09 08:14 : player: played "刘德华 - 练习(Live).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/张明敏 - 乡间的小路.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/张明敏 - 乡间的小路.mp3': No such file or directory
+Mar 09 08:14 : player: played "张明敏 - 乡间的小路.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/李蚊香 雨洛Huge 佑可猫 根小八 黄麒Eros - 当醉少年游【魔道祖师之少年求学组篇】.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/李蚊香 雨洛Huge 佑可猫 根小八 黄麒Eros - 当醉少年游【魔道祖师之少年求学组篇】.mp3': No such file or directory
+Mar 09 08:14 : player: played "李蚊香 雨洛Huge 佑可猫 根小八 黄麒Eros - 当醉少年游【魔道祖师之少年求学组篇】.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/程璧 符瑞 - 心想唱歌就唱歌.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/程璧 符瑞 - 心想唱歌就唱歌.mp3': No such file or directory
+Mar 09 08:14 : player: played "程璧 符瑞 - 心想唱歌就唱歌.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/叶启田 - 爱拼才会赢(闽).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/叶启田 - 爱拼才会赢(闽).mp3': No such file or directory
+Mar 09 08:14 : player: played "叶启田 - 爱拼才会赢(闽).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/Eagles - Hotel California (Live).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/Eagles - Hotel California (Live).mp3': No such file or directory
+Mar 09 08:14 : player: played "Eagles - Hotel California (Live).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/李玖哲 - 围墙.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/李玖哲 - 围墙.mp3': No such file or directory
+Mar 09 08:14 : player: played "李玖哲 - 围墙.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/赵雷 - 成都.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/赵雷 - 成都.mp3': No such file or directory
+Mar 09 08:14 : player: played "赵雷 - 成都.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/青蛙 - 小跳蛙.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/青蛙 - 小跳蛙.mp3': No such file or directory
+Mar 09 08:14 : player: played "青蛙 - 小跳蛙.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/朴树 - 那些花儿.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/朴树 - 那些花儿.mp3': No such file or directory
+Mar 09 08:14 : player: played "朴树 - 那些花儿.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[toAN]蒲公英的约定-周杰伦·《我很忙》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[toAN]蒲公英的约定-周杰伦·《我很忙》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[toAN]蒲公英的约定-周杰伦·《我很忙》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/老狼 任素汐 - 我要你.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/老狼 任素汐 - 我要你.mp3': No such file or directory
+Mar 09 08:14 : player: played "老狼 任素汐 - 我要你.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/刘惜君 - 那时候的我.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/刘惜君 - 那时候的我.mp3': No such file or directory
+Mar 09 08:14 : player: played "刘惜君 - 那时候的我.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/宋冬野 - 董小姐.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/宋冬野 - 董小姐.mp3': No such file or directory
+Mar 09 08:14 : player: played "宋冬野 - 董小姐.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/黄安 - 样样红.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/黄安 - 样样红.mp3': No such file or directory
+Mar 09 08:14 : player: played "黄安 - 样样红.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/黄安 - 新鸳鸯蝴蝶梦.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/黄安 - 新鸳鸯蝴蝶梦.mp3': No such file or directory
+Mar 09 08:14 : player: played "黄安 - 新鸳鸯蝴蝶梦.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/阿鲁阿卓 - 映山红.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/阿鲁阿卓 - 映山红.mp3': No such file or directory
+Mar 09 08:14 : player: played "阿鲁阿卓 - 映山红.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/筠子 - 青春.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/筠子 - 青春.mp3': No such file or directory
+Mar 09 08:14 : player: played "筠子 - 青春.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/关牧村 - 月光下的凤尾竹.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/关牧村 - 月光下的凤尾竹.mp3': No such file or directory
+Mar 09 08:14 : player: played "关牧村 - 月光下的凤尾竹.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/蒋志光 罗大佑 - 皇后大道东.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/蒋志光 罗大佑 - 皇后大道东.mp3': No such file or directory
+Mar 09 08:14 : player: played "蒋志光 罗大佑 - 皇后大道东.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/李荣浩 - 李白.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/李荣浩 - 李白.mp3': No such file or directory
+Mar 09 08:14 : player: played "李荣浩 - 李白.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/胡伟立 - 市集.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/胡伟立 - 市集.mp3': No such file or directory
+Mar 09 08:14 : player: played "胡伟立 - 市集.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/洛天依 言和 - 绿茶.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/洛天依 言和 - 绿茶.mp3': No such file or directory
+Mar 09 08:14 : player: played "洛天依 言和 - 绿茶.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/群星 - 青衣.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/群星 - 青衣.mp3': No such file or directory
+Mar 09 08:14 : player: played "群星 - 青衣.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/萧全 - 海草舞.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/萧全 - 海草舞.mp3': No such file or directory
+Mar 09 08:14 : player: played "萧全 - 海草舞.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/许一鸣 - 想你想疯了.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/许一鸣 - 想你想疯了.mp3': No such file or directory
+Mar 09 08:14 : player: played "许一鸣 - 想你想疯了.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/洛天依 言和 - 神经病之歌.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/洛天依 言和 - 神经病之歌.mp3': No such file or directory
+Mar 09 08:14 : player: played "洛天依 言和 - 神经病之歌.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/群星 - 弹棉花.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/群星 - 弹棉花.mp3': No such file or directory
+Mar 09 08:14 : player: played "群星 - 弹棉花.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/李荣浩 - 出卖.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/李荣浩 - 出卖.mp3': No such file or directory
+Mar 09 08:14 : player: played "李荣浩 - 出卖.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/简弘亦 - 问.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/简弘亦 - 问.mp3': No such file or directory
+Mar 09 08:14 : player: played "简弘亦 - 问.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/群星 - aHUOz.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/群星 - aHUOz.mp3': No such file or directory
+Mar 09 08:14 : player: played "群星 - aHUOz.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/付笛声 - 众人划桨开大船.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/付笛声 - 众人划桨开大船.mp3': No such file or directory
+Mar 09 08:14 : player: played "付笛声 - 众人划桨开大船.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/刘德华 - 世界第一等(Live) - live.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/刘德华 - 世界第一等(Live) - live.mp3': No such file or directory
+Mar 09 08:14 : player: played "刘德华 - 世界第一等(Live) - live.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/林翠萍 - 何必在乎你是谁.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/林翠萍 - 何必在乎你是谁.mp3': No such file or directory
+Mar 09 08:14 : player: played "林翠萍 - 何必在乎你是谁.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/林翠萍 - 爱做梦的人.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/林翠萍 - 爱做梦的人.mp3': No such file or directory
+Mar 09 08:14 : player: played "林翠萍 - 爱做梦的人.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/孙俪 - 爱如空气.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/孙俪 - 爱如空气.mp3': No such file or directory
+Mar 09 08:14 : player: played "孙俪 - 爱如空气.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/刘惜君 - 我很快乐.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/刘惜君 - 我很快乐.mp3': No such file or directory
+Mar 09 08:14 : player: played "刘惜君 - 我很快乐.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/朴树 - 平凡之路.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/朴树 - 平凡之路.mp3': No such file or directory
+Mar 09 08:14 : player: played "朴树 - 平凡之路.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/许巍 - 故乡.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/许巍 - 故乡.mp3': No such file or directory
+Mar 09 08:14 : player: played "许巍 - 故乡.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/李宗盛 - 我终于失去了你.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/李宗盛 - 我终于失去了你.mp3': No such file or directory
+Mar 09 08:14 : player: played "李宗盛 - 我终于失去了你.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/李宗盛 - 漂洋过海来看你.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/李宗盛 - 漂洋过海来看你.mp3': No such file or directory
+Mar 09 08:14 : player: played "李宗盛 - 漂洋过海来看你.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/宿羽阳 - 赴约.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/宿羽阳 - 赴约.mp3': No such file or directory
+Mar 09 08:14 : player: played "宿羽阳 - 赴约.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/杨坤 佟大为 郑元畅 张杰 朱亚文 陈学冬 - 真心英雄.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/杨坤 佟大为 郑元畅 张杰 朱亚文 陈学冬 - 真心英雄.mp3': No such file or directory
+Mar 09 08:14 : player: played "杨坤 佟大为 郑元畅 张杰 朱亚文 陈学冬 - 真心英雄.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/成龙 金喜善 - 美丽的神话Ⅰ.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/成龙 金喜善 - 美丽的神话Ⅰ.mp3': No such file or directory
+Mar 09 08:14 : player: played "成龙 金喜善 - 美丽的神话Ⅰ.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/叶启田 - 浪子的心情.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/叶启田 - 浪子的心情.mp3': No such file or directory
+Mar 09 08:14 : player: played "叶启田 - 浪子的心情.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/许巍 - 第三极.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/许巍 - 第三极.mp3': No such file or directory
+Mar 09 08:14 : player: played "许巍 - 第三极.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tQYB]等你下课(with 杨瑞代)-周杰伦·《等你下课》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tQYB]等你下课(with 杨瑞代)-周杰伦·《等你下课》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tQYB]等你下课(with 杨瑞代)-周杰伦·《等你下课》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/薛之谦 - 演员.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/薛之谦 - 演员.mp3': No such file or directory
+Mar 09 08:14 : player: played "薛之谦 - 演员.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/丁小芹 - 思念.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/丁小芹 - 思念.mp3': No such file or directory
+Mar 09 08:14 : player: played "丁小芹 - 思念.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/蔡健雅 - 红色高跟鞋.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/蔡健雅 - 红色高跟鞋.mp3': No such file or directory
+Mar 09 08:14 : player: played "蔡健雅 - 红色高跟鞋.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tmDG]蜗牛-周杰伦·《范特西PLUS》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tmDG]蜗牛-周杰伦·《范特西PLUS》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tmDG]蜗牛-周杰伦·《范特西PLUS》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/周传雄 - 蓝色土耳其.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/周传雄 - 蓝色土耳其.mp3': No such file or directory
+Mar 09 08:14 : player: played "周传雄 - 蓝色土耳其.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tfnS]好久不见-陈奕迅·《认了吧》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tfnS]好久不见-陈奕迅·《认了吧》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tfnS]好久不见-陈奕迅·《认了吧》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/[tY9i]红玫瑰-陈奕迅·《认了吧》.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/[tY9i]红玫瑰-陈奕迅·《认了吧》.mp3': No such file or directory
+Mar 09 08:14 : player: played "[tY9i]红玫瑰-陈奕迅·《认了吧》.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/唐汉霄 - 让我留在你身边 (原唱作版).mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/唐汉霄 - 让我留在你身边 (原唱作版).mp3': No such file or directory
+Mar 09 08:14 : player: played "唐汉霄 - 让我留在你身边 (原唱作版).mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/毛宁 - 涛声依旧.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/毛宁 - 涛声依旧.mp3': No such file or directory
+Mar 09 08:14 : player: played "毛宁 - 涛声依旧.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/孟庭苇 - 羞答答的玫瑰静悄悄地开.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/孟庭苇 - 羞答答的玫瑰静悄悄地开.mp3': No such file or directory
+Mar 09 08:14 : player: played "孟庭苇 - 羞答答的玫瑰静悄悄地开.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/走路去纽约 - 陶晶莹.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/走路去纽约 - 陶晶莹.mp3': No such file or directory
+Mar 09 08:14 : player: played "走路去纽约 - 陶晶莹.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/杨宗纬 - 越过山丘.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/杨宗纬 - 越过山丘.mp3': No such file or directory
+Mar 09 08:14 : player: played "杨宗纬 - 越过山丘.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/杨钰莹 毛宁 - 心雨.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/杨钰莹 毛宁 - 心雨.mp3': No such file or directory
+Mar 09 08:14 : player: played "杨钰莹 毛宁 - 心雨.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/GALA - 追梦赤子心.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/GALA - 追梦赤子心.mp3': No such file or directory
+Mar 09 08:14 : player: played "GALA - 追梦赤子心.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/都是夜归人 - 许美静.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/都是夜归人 - 许美静.mp3': No such file or directory
+Mar 09 08:14 : player: played "都是夜归人 - 许美静.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/阳光总在风雨后 - 许美静.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/阳光总在风雨后 - 许美静.mp3': No such file or directory
+Mar 09 08:14 : player: played "阳光总在风雨后 - 许美静.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/韦唯 - 辘轳、井、女人.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/韦唯 - 辘轳、井、女人.mp3': No such file or directory
+Mar 09 08:14 : player: played "韦唯 - 辘轳、井、女人.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/金玟岐 - 岁月神偷.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/金玟岐 - 岁月神偷.mp3': No such file or directory
+Mar 09 08:14 : player: played "金玟岐 - 岁月神偷.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/郑钧 - 私奔.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/郑钧 - 私奔.mp3': No such file or directory
+Mar 09 08:14 : player: played "郑钧 - 私奔.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/是阿涵阿 - 过客.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/是阿涵阿 - 过客.mp3': No such file or directory
+Mar 09 08:14 : player: played "是阿涵阿 - 过客.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/梁咏琪 - 中意他.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/梁咏琪 - 中意他.mp3': No such file or directory
+Mar 09 08:14 : player: played "梁咏琪 - 中意他.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/コナミ矩形波倶楽部 - 魂斗罗(FC)密林の戦い~戦栗の鼓动~凯旋1.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/コナミ矩形波倶楽部 - 魂斗罗(FC)密林の戦い~戦栗の鼓动~凯旋1.mp3': No such file or directory
+Mar 09 08:14 : player: played "コナミ矩形波倶楽部 - 魂斗罗(FC)密林の戦い~戦栗の鼓动~凯旋1.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/赵牧阳 - 黄河谣.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/赵牧阳 - 黄河谣.mp3': No such file or directory
+Mar 09 08:14 : player: played "赵牧阳 - 黄河谣.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/迪克牛仔 - 三万英尺.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/迪克牛仔 - 三万英尺.mp3': No such file or directory
+Mar 09 08:14 : player: played "迪克牛仔 - 三万英尺.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/那英 - 默.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/那英 - 默.mp3': No such file or directory
+Mar 09 08:14 : player: played "那英 - 默.mp3"
+Mar 09 08:14 : exception: Failed to decode /home/will/Music/黄龄 - 风月.mp3
+Mar 09 08:14 : exception: nested: Failed to open '/home/will/Music/黄龄 - 风月.mp3': No such file or directory
+Mar 09 08:14 : player: played "黄龄 - 风月.mp3"
+Mar 10 20:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 08:20 : client: [0] opened from 127.0.0.1:46370
+Mar 11 08:20 : client: [0] closed
+Mar 11 08:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 08:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 08:20 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 11 08:24 : player: played "黄龄 - 风月.mp3"
+Mar 11 08:27 : client: [1] opened from 127.0.0.1:46406
+Mar 11 08:27 : client: [1] closed
+Mar 11 08:33 : player: played "[n312]成都-赵雷《成都》.mp3"
+Mar 11 08:36 : player: played "[t0Ac]稻香-周杰伦·《魔杰座》.mp3"
+Mar 11 08:41 : player: played "[taad]简单爱-周杰伦·《范特西》.mp3"
+Mar 11 08:45 : player: played "[tAKf]爱在西元前-周杰伦·《范特西》.mp3"
+Mar 11 08:49 : exception: Failed to play on "pulse audio" (pulse): disconnected
+Mar 11 08:50 : player: played "[td9a]半岛铁盒-周杰伦·《八度空间》.mp3"
+Mar 11 08:50 : exception: Failed to play on "pulse audio" (pulse): suspended
+Mar 11 08:54 : player: played "[tDxy]龙卷风-周杰伦·《Jay》.mp3"
+Mar 11 08:58 : player: played "[tFEJ]爷爷泡的茶-周杰伦·《八度空间》.mp3"
+Mar 11 09:02 : player: played "[tFSF]回到过去-周杰伦·《八度空间》.mp3"
+Mar 11 09:06 : player: played "[tgUt]K歌之王-陈奕迅·《反正是我》.mp3"
+Mar 11 09:09 : exception: Failed to play on "pulse audio" (pulse): suspended
+Mar 11 09:09 : player: played "[tiVt]半兽人-周杰伦·《八度空间》.mp3"
+Mar 12 21:57 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 21:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 21:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 22:00 : client: [0] opened from 127.0.0.1:60190
+Mar 12 22:00 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 12 22:00 : client: [0] closed
+Mar 12 22:01 : player: played "[tiVt]半兽人-周杰伦·《八度空间》.mp3"
+Mar 12 22:05 : player: played "[tp4Q]米兰的小铁匠-周杰伦·《八度空间》.mp3"
+Mar 12 22:10 : player: played "[tRxK]开不了口-周杰伦·《范特西》 (1).mp3"
+Mar 12 22:15 : player: played "[tv56]安静-周杰伦·《范特西》.mp3"
+Mar 12 22:20 : player: played "[tYhV]晴天-周杰伦·《叶惠美》.mp3"
+Mar 12 22:22 : exception: Failed to play on "pulse audio" (pulse): suspended
+Mar 12 22:22 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 14 09:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 09:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 09:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 09:32 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 14 10:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 10:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 10:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 14 10:08 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 15 10:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 10:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 10:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 15 10:22 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 18 19:53 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 19:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 18 19:53 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 16:41 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 20 18:09 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 18:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 18:09 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 20 21:09 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 21 18:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 18:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 21 18:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 08:54 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 25 19:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 19:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 19:58 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 20:12 : player: played "[tzwp]最后的战役-周杰伦·《八度空间》.mp3"
+Mar 25 20:13 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 20:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Mar 25 20:13 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted

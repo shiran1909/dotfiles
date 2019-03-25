@@ -3,8 +3,8 @@ audio_device_state:1:pulse audio
 audio_device_state:1:mpd http stream
 audio_device_state:1:toggle_visualizer
 state: pause
-current: 0
-time: 10.290000
+current: 14
+time: 98.646000
 random: 0
 repeat: 0
 single: 0

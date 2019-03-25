@@ -9,4 +9,4 @@ rofi -sidebar-mode \
      -columns 3 \
      -theme center \
      -hide-scrollbar true \
-     -font "WenQuanYi Micro Hei 10"
+     -font "文泉驿微米黑 10"
