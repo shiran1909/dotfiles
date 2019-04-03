@@ -1,5 +1,3 @@
-#!/usr/bin/env zsh
-
 pkill conky
 
 conky -c ~/.config/conky/horical.conkyrc
